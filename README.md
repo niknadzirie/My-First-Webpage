@@ -1,3 +1,3 @@
 Hello,
 
-Visit [niknadzirie.github.io/excursion](https://niknadzirie.github.io/excursion) to view the website.
+Visit [https://niknadzirie.github.io/My-First-Webpage/](https://niknadzirie.github.io/My-First-Webpage/) to view the website.
